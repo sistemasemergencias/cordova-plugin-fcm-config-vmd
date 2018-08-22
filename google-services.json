@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "64418010746",
+    "firebase_url": "https://visitas-147518.firebaseio.com",
+    "project_id": "visitas-147518",
+    "storage_bucket": "visitas-147518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64418010746:android:8d7cd37002915995",
+        "android_client_info": {
+          "package_name": "com.emergencias.visitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64418010746-6ra5l6d8e292no1h8fgql61ihuss6mit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSL0NDhT1H5dkf9IIgbR1Cip4CSPEErWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
