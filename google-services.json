@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "64418010746",
-    "firebase_url": "https://visitas-147518.firebaseio.com",
-    "project_id": "visitas-147518",
-    "storage_bucket": "visitas-147518.appspot.com"
+    "project_number": "651326663563",
+    "firebase_url": "https://metal-cable-92320.firebaseio.com",
+    "project_id": "metal-cable-92320",
+    "storage_bucket": "metal-cable-92320.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:64418010746:android:8d7cd37002915995",
+        "mobilesdk_app_id": "1:651326663563:android:3a877b1deb801c69",
         "android_client_info": {
-          "package_name": "com.emergencias.visitas"
+          "package_name": "com.emergencias.rcdgte"
         }
       },
       "oauth_client": [
         {
-          "client_id": "64418010746-6ra5l6d8e292no1h8fgql61ihuss6mit.apps.googleusercontent.com",
+          "client_id": "651326663563-efj9f72t9kei6fvb6le71e5jiq9r6054.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBSL0NDhT1H5dkf9IIgbR1Cip4CSPEErWY"
+          "current_key": "AIzaSyBxL1UbIOvZrkiZDN4uz7uDRrC4MJFK_HU"
         }
       ],
       "services": {
