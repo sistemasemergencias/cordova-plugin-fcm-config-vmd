@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "64418010746",
-    "firebase_url": "https://visitas-147518.firebaseio.com",
-    "project_id": "visitas-147518",
-    "storage_bucket": "visitas-147518.appspot.com"
+    "project_number": "827411557108",
+    "firebase_url": "https://ua-teleasistencia-medica.firebaseio.com",
+    "project_id": "ua-teleasistencia-medica",
+    "storage_bucket": "ua-teleasistencia-medica.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:64418010746:android:8d7cd37002915995",
+        "mobilesdk_app_id": "1:827411557108:android:1fb33fdc641b617c",
         "android_client_info": {
-          "package_name": "com.emergencias.visitas"
+          "package_name": "com.ua.uatelemed"
         }
       },
       "oauth_client": [
         {
-          "client_id": "64418010746-6ra5l6d8e292no1h8fgql61ihuss6mit.apps.googleusercontent.com",
+          "client_id": "827411557108-e0qbhj0gp8hm0a1lqgifate92qoqldgo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBSL0NDhT1H5dkf9IIgbR1Cip4CSPEErWY"
+          "current_key": "AIzaSyDuQQv8l7EjgXVjEPV67kCQn-8eGJd_hDU"
         }
       ],
       "services": {
