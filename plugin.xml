@@ -14,6 +14,7 @@
 
 	<platform name="android">
 		<source-file src="google-services.json" target-dir="./"/>
+		<framework src="build.gradle" custom="true" type="gradleReference" />
 	</platform>
 
 </plugin>
